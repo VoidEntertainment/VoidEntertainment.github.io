@@ -122,14 +122,14 @@ h2, h3{
     text-decoration: none;
     padding: 12px;
     color: white;
-    background-color: #3a3a3a;
+    background-color: #261a4b;
     cursor: pointer;
     font-size: 18px;
     margin-top: 20px;
   }
   
   .card .button:hover {
-    background-color: #242424;
+    background-color: #290b3d;
   }
 
 @media screen and (max-width: 600px) {
